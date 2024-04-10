@@ -1,4 +1,4 @@
-### Hi there my name is Octavious👋
+### Hi, I'm Octavious, an IT Professional👋
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
