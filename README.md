@@ -1,14 +1,16 @@
-### Hi, I'm Octavious, an IT Professional👋
+### Hi, I'm Octavious, an IT Support Professional👋
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+ ## 👨‍💻 General IT Support Projects/Labs:  
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Installing and configuring Windows Active Directory with Azure Virtual Machines](https://github.com/SenseiK954/ADconfig)  
+  - [Network Security Groups and Wireshark (sniffer)](https://github.com/SenseiK954/NSG-WS)  
+  - [Network File Share and Permissions](https://github.com/SenseiK954/NFS)  
+  - [Domain Name Server (DNS) Intuition](https://github.com/SenseiK954/DNST)  
+  
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/SenseiK954/osticketing-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/SenseiK954/osticketing-postconfig)
+  
 
 <h2>🤳Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/octavious-padgett
