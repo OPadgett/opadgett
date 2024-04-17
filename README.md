@@ -9,7 +9,7 @@
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/OPadgett/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/SenseiK954/osticketing-postconfig)
+  - [osTicket: Post-Installation Configuration](https://github.com/OPadgett/osticketing-postconfig/)
   
 
 <h2>🤳Connect with me:</h2>
