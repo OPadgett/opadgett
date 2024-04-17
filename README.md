@@ -8,7 +8,7 @@
   - [Domain Name Server (DNS) Intuition](https://github.com/SenseiK954/DNST)  
   
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SenseiK954/osticketing-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/OPadgett/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SenseiK954/osticketing-postconfig)
   
 
