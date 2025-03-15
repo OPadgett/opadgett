@@ -17,5 +17,6 @@ I am enthusiastic about information security and enjoy finding solutions that ca
   - [Vulnerability Management Program Implementation](https://github.com/OPadgett/Vulnerability-Management)  
   - [Automations](https://github.com/OPadgett/automation)
 
- ## 👨‍💻 Threat Hunting and Security Operations  
+ ## 👨‍💻 Threat Hunting and Security Operations
+ - <b>Threat Hunting)</b>
   - [Threat Hunting Scenario Tor Browser Usage)](https://github.com/OPadgett/threat-hunting-scenario-tor)  
