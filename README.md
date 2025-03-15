@@ -11,5 +11,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/OPadgett/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/OPadgett/osticketing-postconfig/)
  
- ## 👨‍💻 Cybersecrity Projects/Labs:  
+ ## 👨‍💻 Cybersecurity Projects/Labs:  
 
