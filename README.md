@@ -1,4 +1,5 @@
-### Hi, I'm Octavious Padgett, native of Nashville, TN. I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.👋
+### Hi! I'm Octavious Padgett (Nashville, TN) 
+I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.👋
 
  ## 👨‍💻 Azure IT Support Projects/Labs:  
 - <b>Microsoft Azure</b>
