@@ -18,5 +18,4 @@ I am enthusiastic about information security and enjoy finding solutions that ca
   - [Automations](https://github.com/OPadgett/automation)
 
  ## 👨‍💻 Threat Hunting and Security Operations
- - <b>Threat Hunting)</b>
   - [Threat Hunting Scenario Tor Browser Usage)](https://github.com/OPadgett/threat-hunting-scenario-tor)  
