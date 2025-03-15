@@ -13,4 +13,4 @@
  
  ## 👨‍💻 Cybersecurity Projects/Labs:  
 
-  - [Vulnerability Management](https://github.com/OPadgett/Vulnerability-Management)  
+  - [Vulnerability Management Program Implementation](https://github.com/OPadgett/Vulnerability-Management)  
