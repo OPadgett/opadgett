@@ -10,7 +10,7 @@ I am commited to help protect sensitive information and mitigate risk.👋
      
  ## 👨‍💻 Azure IT Support Projects/Labs  
 - <b>Microsoft Azure</b>
-  - [Installing and configuring Windows Active Directory with Azure Virtual Machines](https://github.com/OPadgett/ADconfig/)  
+  - [Installing and Configuring Windows Active Directory with Azure Virtual Machines](https://github.com/OPadgett/ADconfig/)  
   - [Network Security Groups and Wireshark (sniffer)](https://github.com/OPadgett/NSG-WS)  
   - [Network File Share and Permissions](https://github.com/OPadgett/NFS)  
   - [Domain Name Server (DNS) Intuition](https://github.com/OPadgett/DNST)  
