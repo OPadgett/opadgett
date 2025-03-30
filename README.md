@@ -3,7 +3,7 @@ A hardworking/eager IT Engineer that places a high value on maintaining a strong
 Below is my portfolio for you to observe about information security and enjoy finding solutions that can positively impact an organization and the people it serves. 
 I am commited to help protect sensitive information and mitigate risk.👋
 
- ## 👨‍💻 Networking Concepts
+ ## 👨‍💻 Networking Concepts (NAT, VPN, ACLs, VLANs, OSPF, and Switch Security)
  - <b>Network Concept</b>
    - [Network Configurations](https://github.com/OPadgett/Network-Configurations)
    - [Networking Troubleshooting](https://docs.google.com/document/d/1_nAUTNiyY-kZBcIm0sYIaAvlQ6FfY10US9MfKLL2kn0/edit?usp=sharing)
